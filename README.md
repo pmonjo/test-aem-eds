@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Testing AEM Edge Delivery
+My first attempt at creating a web using AEM Edge Delivery
 
 ## Tutorial
 https://www.aem.live/developer/tutorial
